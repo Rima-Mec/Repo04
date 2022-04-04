@@ -11,4 +11,4 @@ function main(numOne, numTwo){
  console.log(main(2.5, 2.0)); // assigned 5
  console.log(main(5.5, 5.5)); // assigned 30.25
  console.log(main(100.25, 43.20)); // assigned 4330.8
- module.export = main;
+ module.exports = main;
