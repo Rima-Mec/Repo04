@@ -11,4 +11,4 @@ function main(numOne, numTwo){
  console.log(main(5, 2)); // assigned 1
  console.log(main(15, 4)); // assigned 3
  console.log(main(102, 25)); // assigned 2
- module.export = main;
+ module.exports = main;
